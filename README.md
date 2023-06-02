@@ -55,10 +55,13 @@ For additional info, contact Sean Harris at [smharris@myyahoo.com](mailto:smharr
 
 ## Repository Structure
 
-'''
+
 ├── .gitignore
+
 ├── Aviation_Data.csv
+
 ├── Aviation_Risk_Analysis.ipynb
+
 ├── Aviation_Risk_Presentation.pdf
+
 ├── README.md
-'''
